@@ -1,0 +1,6 @@
+{
+  "name": "Assistente IA para WhatsApp",
+  "description": "Copiloto inteligente para WhatsApp Web com análise em tempo real, interpretação de áudios e sugestões de respostas contextualizadas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
